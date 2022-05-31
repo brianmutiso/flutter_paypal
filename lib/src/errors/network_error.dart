@@ -16,7 +16,7 @@ class NetworkError extends StatelessWidget {
         children: [
           Image.asset(
             "lib/src/assets/img/cloud_state.png",
-            package: "flutter_paypal",
+            package: "flutter_paypal_package",
             height: 120,
           ),
           SizedBox(

@@ -1,6 +1,6 @@
 name: flutter_paypal_package
 description: A simple but powerful Paypal SDK for flutter.
-version: 0.0.4
+version: 0.0.5
 homepage: https://github.com/brianmutiso/flutter_paypal
 
 environment:
